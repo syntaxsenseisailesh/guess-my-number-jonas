@@ -1,1 +1,1 @@
-# guess-my-number-jonas
+this is a basic DOM manipulation project
